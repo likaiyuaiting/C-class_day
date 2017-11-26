@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/10/27 21:13:05。
+     1>项目“D:\程序集\我的c语言.c\C++函数（日期类）\C++函数（日期类）\C++函数（日期类）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt day.cpp
+         day.cpp
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(65): error C2535: “Date &Date::operator +(int)”: 已经定义或声明成员函数
+                 d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(34) : 参见“Date::operator +”的声明
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(29): warning C4172: 返回局部变量或临时变量的地址
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(60): warning C4172: 返回局部变量或临时变量的地址
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(82): error C2143: 语法错误 : 缺少“}”(在“;”的前面)
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(82): error C2064: 项不会计算为接受 1 个参数的函数
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(87): error C2059: 语法错误:“return”
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(88): error C2059: 语法错误:“}”
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(88): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(92): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\程序集\我的c语言.c\c++函数（日期类）\c++函数（日期类）\day.cpp(92): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+     1>已完成生成项目“D:\程序集\我的c语言.c\C++函数（日期类）\C++函数（日期类）\C++函数（日期类）.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.47
